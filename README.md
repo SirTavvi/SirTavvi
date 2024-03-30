@@ -22,3 +22,14 @@
 
 SirTavvi/SirTavvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
+### Operating Systems
+- ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
+  - Windows 10
+  - Windows 11
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
+  - Ubuntu
+  - Kali Linux
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
+- ![Zorin](https://img.shields.io/badge/Zorin-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
