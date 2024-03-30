@@ -22,8 +22,6 @@
 
 SirTavvi/SirTavvi is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. I am awsome.
 
-![20953321_105434340186922_6134547422563361482_n](https://github.com/SirTavvi/SirTavvi/assets/165447592/d468637a-39f7-4658-afda-c7fe6700f9f1)
-
 ### Operating Systems
 - ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
   - Windows 10
