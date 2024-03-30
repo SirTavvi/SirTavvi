@@ -31,3 +31,5 @@ SirTavvi/SirTavvi is a ✨ special ✨ repository because its `README.md` appear
   - Kali Linux
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 - ![Zorin](https://img.shields.io/badge/Zorin-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+![Gemini_Generated_Image_1](https://github.com/SirTavvi/SirTavvi/assets/165447592/8b3945ab-7b98-4338-8e94-9b2cf9bc79e3)
