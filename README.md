@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SirTavvi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sirtavvi@gmail.com
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning Python  
 - ⚡ Fun fact: The PH is almost 7 thousand islands
 
 <p align="center">
