@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python  
 - ⚡ Fun fact: The PH is almost 7 thousand islands
 
+![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/SirTavvi/SirTavvi/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
   <a href="https://github.com/SirTavvi?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SirTavvi?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
