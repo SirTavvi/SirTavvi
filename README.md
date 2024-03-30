@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - Ubuntu
   - Kali Linux
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 - ![Zorin](https://img.shields.io/badge/Zorin-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
