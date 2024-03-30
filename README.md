@@ -7,7 +7,7 @@
   <a href="https://github.com/SirTavvi?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SirTavvi?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
   </a>
-  <a href="https://github.com/SirTavvi/Simple-View-Counter">
+  <a href="https://github.com/SirTavvi">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=SirTavvi&style=flat-square&color=lightgrey"/>
   </a>
   <a href="https://github.com/SirTavvi?tab=repositories&sort=stargazers">
