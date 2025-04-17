@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirTavvi
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Python  
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Networking   
 - ⚡ Fun fact: The PH is almost 7 thousand islands
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/SirTavvi/SirTavvi/output/github-contribution-grid-snake-dark.svg)
